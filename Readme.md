@@ -1,4 +1,6 @@
-# Programming Concepts
+# Programming Concepts [In-Progress]
+
+NOTE: Please feel free to Open PRs 😊
 
 This document holds some common PF concepts till some advance concepts that could be asked in an interview, or that a software engineer should be aware off. I've just jotted down concepts and very basic definitions, please be-aware that this is NOT ALL!
 
